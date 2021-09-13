@@ -2,14 +2,14 @@
   {
     "version": "3.9.6",
     "stable": true,
-    "release_url": "https://github.com/caseware/setup-python/releases/tag/3.0.0",
+    "release_url": "https://github.com/caseware/setup-python/releases/tag/3.9.6",
     "files": [
       {
         "filename": "python-3.9.6-linux-amzn-linux-2-x64.tar.gz",
         "arch": "x64",
         "platform": "linux",
         "platform_version": "amzn-linux-2",
-        "download_url": "https://github.com/caseware/setup-python/releases/download/3.0.0/python-3.9.6-amzn-linux-2-x64.tar.gz"
+        "download_url": "https://github.com/caseware/setup-python/releases/download/3.9.6/python-3.9.6-amzn-linux-2-x64.tar.gz"
       }
     ]
   }
