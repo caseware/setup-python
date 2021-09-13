@@ -8,7 +8,7 @@
         "filename": "python-3.9.6-linux-amzn-linux-2-x64.tar.gz",
         "arch": "x64",
         "platform": "linux",
-        "platform_version": "amzn-linux-2",
+        "platform_version": "7.3.1",
         "download_url": "https://github.com/caseware/setup-python/releases/download/3.9.6/python-3.9.6-amzn-linux-2-x64.tar.gz"
       }
     ]
